@@ -28,7 +28,7 @@ def score_game(random_predict) -> int:
         random_predict (_type_): функция угадывания
 
     Returns:
-        int: среднее количество попыток
+        int: среднее количество попыток eufl
     """
     counter_ls = [] # список для сохранения количества попыток
     np.random.seed(1)
