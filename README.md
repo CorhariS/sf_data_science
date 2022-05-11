@@ -5,5 +5,5 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 ## Проекты
 
 * [Проект 0. Игра: Угадай число](https://github.com/CorhariS/sf_data_science/tree/main/Project0)
-* [Проект 1. __________________]()
+* [Проект 1. Анализ вакансий из HeadHunter](https://github.com/CorhariS/sf_data_science/tree/main/Project-1)
 * [Проект 2. __________________]()
