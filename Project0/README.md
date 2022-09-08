@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/CorhariS/sf_data_science/tree/main/Project0/README.md#Выводы) 
 
 ### Описание проекта    
-Угадать загаданное компьютером число за минимальное число попыток.
+Угадать загаданное компьютером число за минимальное число попыток (не более 20).
 
 :arrow_up:[к оглавлению](https://github.com/CorhariS/sf_data_science/tree/main/Project0/README.md#Оглавление)
 
