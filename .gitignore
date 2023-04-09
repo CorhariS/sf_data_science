@@ -82,6 +82,7 @@ profile_default/
 ipython_config.py
 /project-1/data
 /CODEWARS
+/project-3
 
 # pyenv
 .python-version
