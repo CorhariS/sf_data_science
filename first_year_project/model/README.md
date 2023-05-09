@@ -1,0 +1,1 @@
+Обученную модель можно скачать по ссылке https://drive.google.com/file/d/1aUNGNLer2n6kBGoXC57q_5bR2oFIXR1C/view?usp=sharing
